@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">social-app</string>
+    <string name="home">Trang chủ</string>
+    <string name="notifi">Thông báo</string>
+    <string name="add">Đăng bài</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="setting">Thông tin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">592569391297-ke91ofql04m2ujmdlu7ken32cgdll9kv.apps.googleusercontent.com</string>
+</resources>
